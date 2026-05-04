@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "7c096649f629be80",
+    "type": "split",
+    "children": [
+      {
+        "id": "4026bbb20a9888f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cadba2111c09a69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/calculas/Thomas Calculus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thomas Calculus"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8a4bd2b2b3fd2d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "96dcf55497a31bff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bcbb11c5c8014c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bd462f3faf1e9e9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5acbbc428ac14cd4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "311822f4b235ebd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "09451b6e77b32dfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f22bda48fa614909",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math/Real Analysis/HOW TO PROVE IT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for HOW TO PROVE IT"
+            }
+          },
+          {
+            "id": "e96da6b1ccbf6646",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Math/Real Analysis/HOW TO PROVE IT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from HOW TO PROVE IT"
+            }
+          },
+          {
+            "id": "317479b14b671c6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3c92d376ea5e50f5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "694b9d336405c4d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Math/Real Analysis/HOW TO PROVE IT.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of HOW TO PROVE IT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6cadba2111c09a69",
+  "lastOpenFiles": [
+    "Math/calculas/MIT 18.01.md",
+    "Math/calculas/Thomas Calculus.md",
+    "Math/Real Analysis/HOW TO PROVE IT.md",
+    "Math/calculas",
+    "Math/Untitled.md",
+    "Welcome.md",
+    "Math/Real Analysis/Untitled/Untitled.md",
+    "Math/Real Analysis/Untitled",
+    "Math/Real Analysis",
+    "Math"
+  ]
+}
