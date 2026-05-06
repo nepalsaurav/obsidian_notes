@@ -18,3 +18,4 @@ Recitation video: https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1
 | Session 7: Derivatives of Sine and Cosine | Complete       | Complete        |
 | Session 8: Limits of Sine and Cosine      | Complete       | Complete        |
 | Session 9: Product Rule                   | Complete       | Complete        |
+| Session 10: Quotient Rule                 |                |                 |
