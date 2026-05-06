@@ -20,4 +20,4 @@ Recitation video: https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1
 | Session 9: Product Rule                   | Complete       | Complete        |
 | Session 10: Quotient Rule                 | Complete       | Complete        |
 | Session 11: Chain Rule                    | Complete       | Complete        |
-|                                           |                |                 |
+| Session 12: Higher Derivatives            |                |                 |
