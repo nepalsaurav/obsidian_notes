@@ -16,4 +16,5 @@ Recitation video: https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1
 | Session 5: Discontinuity                  | Complete       | Complete        |
 | Session 6: Calculating Derivatives        | Complete       | N/A             |
 | Session 7: Derivatives of Sine and Cosine | Complete       | Complete        |
-| Session 8: Limits of Sine and Cosine      |                |                 |
+| Session 8: Limits of Sine and Cosine      | Complete       | Complete        |
+|                                           |                |                 |
