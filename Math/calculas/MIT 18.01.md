@@ -13,4 +13,5 @@ Recitation video: https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1
 | Session 2: Examples of Derivatives      | Complete |
 | Session 3: Derivative as Rate of Change | Complete |
 | Session 4: Limits and Continuity        | Complete |
-| Session 5: Discontinuity                |          |
+| Session 5: Discontinuity                | Complete |
+|                                         |          |
